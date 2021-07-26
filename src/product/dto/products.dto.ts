@@ -6,5 +6,3 @@ export class CreateProductDTO {
     stock: number;
     image: string;
 }
-
-
